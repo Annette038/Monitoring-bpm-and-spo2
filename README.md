@@ -4,7 +4,7 @@ This codes were made for an Esp32-C3 (XIAO SEEED), using a digital pulseoximeter
 
 ## Contents of the repository:
 
-### [Code for the Infant device]()
+### [Code for the Infant device](bpm_then_spo2_all.ino)
 Calculates data and send it to caretaker device.
 
 ### Code for the Caretaker device
