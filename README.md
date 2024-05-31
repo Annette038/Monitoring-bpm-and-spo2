@@ -10,3 +10,9 @@ Contentes of the repository:
   > Generates alarms
 -Analog device
   >Calculates bpm and spo2
+
+-R Code for statistical analysis of SpO2 and BPM values across 3 devices
+  >Concatenates different .csv files
+  >Boxplots per participant including mean visualization
+  >Violin plots of the entire dataset
+  >ANOVA and post-hoc tests for the data
