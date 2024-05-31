@@ -1,5 +1,5 @@
 # Monitoring-bpm-and-spo2
-<pre>
+
 This codes were made for an Esp32-C3, using a MAX30102.
 
 Contentes of the repository:
@@ -18,6 +18,6 @@ Contentes of the repository:
   >Violin plots of the entire dataset
   >ANOVA and post-hoc tests for the data
 
-[Lets go to Quora](https://www.quora.com)
+[Lets go to BPM](bpm_then_spo2_all.ino)
 
-</pre>
+
