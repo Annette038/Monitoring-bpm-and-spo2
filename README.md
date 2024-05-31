@@ -19,7 +19,3 @@ Calculates bpm and spo2.
   >Boxplots per participant including mean visualization
   >Violin plots of the entire dataset
   >ANOVA and post-hoc tests for the data
-
-[Lets go to BPM](bpm_then_spo2_all.ino)
-
-
